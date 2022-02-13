@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Live demo available at -> https://realtime-chat-app-392fe.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
